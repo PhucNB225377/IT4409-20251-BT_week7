@@ -1,5 +1,4 @@
 #root {
-  max-width: 900px;
   margin: 0 auto;
   padding: 20px;
   text-align: center;
@@ -63,6 +62,7 @@ h2 {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   border-radius: 8px;
   overflow: hidden;
+  max-width: 900px;
 }
 
 .results-table th, .results-table td {
